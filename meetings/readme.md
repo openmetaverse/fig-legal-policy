@@ -24,7 +24,7 @@ Below is a list of all prior completed meetings and related resources.
 
 | No   | Date       | Time | Agenda  | Media | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0001 | 2023-00-00 | 0000 UTC | n/a | n/a | Link | Link |
+| 0001 | 2023-02-10 | 1800 UTC | [Link](https://github.com/Open-MV/fig-legal-policy/discussions/2) | [Recording](https://github.com/Open-MV/legal-policy/tree/main/meetings/media/legal-policy-20230210.m4a) | N/A | N/A |
 
 # General Resources
 
