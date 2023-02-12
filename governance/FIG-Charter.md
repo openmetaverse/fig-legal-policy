@@ -3,9 +3,7 @@
 
 ## Overview of FIG
 
-Two concise lines explaining what this FIG does with bullet points of the major responsibilities
-
-- Responsibility
+The Legal and Policy Foundational Interest Group (FIG) is focused on the non-legal advice of open source and standards pertaining to rights, intellectual property, laws, and policies that will arise from the creation or enhancement of the process or technologies related to the Metaverse. It provides a place of discussion for matters that may enable, prohibit, inhibit or cause issues with the direct or indirect implementation of Metaverse policies or technologies.
 
 ## Goals
 
@@ -13,7 +11,11 @@ Two concise lines explaining what this FIG does with bullet points of the major 
 
 ## Scope
 
-- General scope of work not specific in nature
+* Discuss IP protection either through trademarks or copyrights of commercial and user-generated content.
+* Explore unfair competition, personality and design rights.
+* Discuss existing and future governing laws, jurisdictions and data privacy laws focusing on international and localized policies.
+* Identify and discuss areas related to personal use defense, evidence of use in prosecution, antitrust, impersonation, and the existing rights worldwide and nationally.
+* Identify and define the process for quality control, technological control, and contextual controls for the integrity of content usage.
 
 ## In scope
 
@@ -30,11 +32,10 @@ Two concise lines explaining what this FIG does with bullet points of the major 
 
 ## FIG Links and lists:
 
-- Joining this FIG
-- Slack/Discord
-- Mailing list
-- Issues/PRs
-- Meeting agenda & Notes
+- [Discord](https://discord.gg/openmetaverse)
+- [Mailing list](https://lists.openmv.org/g/fig-legalpolicy)
+- [Issues/PRs](https://github.com/Open-MV/fig-legal-policy/issues)
+- [Meeting agenda & Notes](https://github.com/Open-MV/fig-legal-policy/discussions/categories/meetings)
 
 ## Roles and Organization Management
 
