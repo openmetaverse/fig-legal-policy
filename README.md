@@ -2,6 +2,8 @@
 
 This repository holds materials for the Open Metaverse Foundation Interest Group for Legal and Policy (FIG Legal and Policy).
 
+## View [weekly meetings](./meetings/readme.md#Previous-Meetings) with the agenda, notes and audio recordings.
+
 ## Description of FIG Legal and Policy
 
 The Legal and Policy Foundational Interest Group (FIG) is focused on the non-legal advice of open source and standards pertaining to rights, intellectual property, laws, and policies that will arise from the creation or enhancement of the process or technologies related to the Metaverse. It provides a place of discussion for matters that may enable, prohibit, inhibit or cause issues with the direct or indirect implementation of Metaverse policies or technologies.
